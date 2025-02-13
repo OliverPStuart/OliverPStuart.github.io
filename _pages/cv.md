@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can view my CV [https://github.com/OliverPStuart/OliverPStuart.github.io/blob/master/files/CV_13022025.pdf](here).
+You can view my CV [here]((https://github.com/OliverPStuart/OliverPStuart.github.io/blob/master/files/CV_13022025.pdf).
